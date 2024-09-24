@@ -23,7 +23,7 @@ function App() {
     client.models.Todo.delete({ id })
   }
 
-  return (]
+  return (
         
     <Authenticator>
       {({ signOut }) => (
